@@ -3,5 +3,5 @@
 
 ### Obs:
 
-- Os testes e aplicações em java estão presentes na pasta Formulário Automatico
+- Os testes e aplicações em java e para o selenium IDE estão presentes na pasta Formulário Automatico
 - O teste e a aplicação do java script está presente na pasta java_script
